@@ -1,10 +1,18 @@
 ### Olá! Me chamo Inara da Cunha Valentim! 😁🤗
 
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inara_valentiim/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inara-valentim-4a1b46191/)
 
-![Inara GitHub stats](https://github-readme-stats.vercel.app/api?username=inaravalentiim&show_icons=true&theme=radical)
+📌Porto Alegre
+
+📖Ciência da Computação - Unisinos
+
+✔️3º semestre
+
+
+
+
+![Inara GitHub stats](https://github-readme-stats.vercel.app/api?username=inaravalentiim&show_icons=true&theme=radical)<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inaravalentiim&hide_progress=true)
 
 ### 🧠💻 Estou aprendendo...
@@ -18,8 +26,4 @@
 
 </div><br>
 
-📌Porto Alegre
 
-📖Ciência da Computação - Unisinos
-
-✔️3º semestre
