@@ -21,4 +21,4 @@
 
 📖Ciência da Computação - Unisinos
 
-✔️4º semestre
+✔️3º semestre
