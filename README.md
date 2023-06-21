@@ -25,8 +25,6 @@
   <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img align="right" alt="gif" src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif">
 
-  ![Snake Animation](https://github.com/inaravalentiim/inaravalentiim/blob/output/github-contribution-grid-snake.svg)
-
 </div><br>
 
 
